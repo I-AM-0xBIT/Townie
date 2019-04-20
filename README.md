@@ -4,4 +4,4 @@ Contains armature for creating animations
 
 Apply UV texture to cube.003.
 
-![](Image.jpeg)
+![](Image.JPG)
